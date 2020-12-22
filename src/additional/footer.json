@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "title": "Amazon Music",
+        "text": "Stream millions of songs"
+    },
+    {
+        "id": 2,
+        "title": "Amazon Advertising",
+        "text": "Find, attract, and engage customers"
+    },
+    {
+        "id": 3,
+        "title": "Amazon Drive",
+        "text": "Cloud storage from Amazon" 	
+    },
+    {
+        "id": 4,
+        "title": "6pm",
+        "text": "Score deals on fashion brands"
+    },
+    {
+        "id": 5,
+        "title": "AbeBooks",
+        "text": "Books, art & collectibles"
+    },
+    {
+        "id": 6,
+        "title": "ACX",
+        "text": "Audiobook Publishing Made Easy"
+    },
+    {
+        "id": 7,
+        "title": "Alexa",
+        "text": "Actionable Analytics for the Web"
+    },
+    {
+        "id": 8,
+        "title": "Amazon Web Services",
+        "text": "Scalable Cloud Computing Services"
+    },
+    {
+        "id": 9,
+        "title": "Amazon Rapids",
+        "text": "Fun stories for kids on the go"
+    },
+    {
+        "id": 10,
+        "title": "Amazon Ignite",
+        "text": "Sell Your original Digital Educational Resources"
+    }
+]

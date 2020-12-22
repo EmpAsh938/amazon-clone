@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Get to Know Us",
+        "links": ["careers", "Blog", "About Amazon"]
+    },
+    {
+        "title": "Make Money with Us",
+        "links": ["Sell products on Amazon", "Sell apps on Amazon", "Become an Affiliate"]
+    },
+    {
+        "title": "Amazon Payment Products",
+        "links": ["Amazon Business Card", "Shop with Points", "Reload Your Balance", "Amazon Currency Converter"]
+    },
+    {
+        "title": "Let Us Help You",
+        "links": ["Amazon and COVID-19", "Your Account", "Your Orders", "Shipping Rates & Polices", "Amazon Assistant", "Help"]
+    }
+]

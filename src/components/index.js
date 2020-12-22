@@ -1,0 +1,8 @@
+export { default as Header } from './header'
+export { default as Hero } from './hero'
+export { default as Footer } from './footer'
+export { default as Services } from './services'
+export { default as Signin } from './signin'
+export { default as Signup } from './signup'
+export { default as Products } from './products'
+export { default as Cart } from './cart'
